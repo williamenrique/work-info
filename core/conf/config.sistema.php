@@ -20,7 +20,7 @@ date_default_timezone_set('America/Caracas');
 define('host' ,'localhost');
 define('user' ,  'root');
 define('pass' , 'root');
-define('db' , 'db_danza');
+define('db' , '');
 
 define('METHOD','AES-256-CBC');
 define('SECRET_KEY','$51st3m@');
