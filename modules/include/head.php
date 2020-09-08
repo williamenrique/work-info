@@ -8,7 +8,8 @@
 	<!-- MDB icon -->
 	<link rel="icon" href="img/mdb-favicon.ico" type="image/x-icon" />
 	<!-- Font Awesome -->
-	<link rel="stylesheet" href="<?php echo css?>FontAwesome-Free-5.8.2.css" />
+	<link rel="stylesheet" href="<?php echo css?>all.css" />
+	<!-- <link rel="stylesheet" href="<?php echo css?>FontAwesome-Free-5.8.2.css" /> -->
 	<!-- Google Fonts Roboto -->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" />
 	<!-- MDB -->
