@@ -18,7 +18,6 @@
 		"\\.well-known",
 		"\\cgi-bin",
 		"\\old",
-		"\\.git",
 		"\\wildfire_modules",
 		"\\error_log",
 		"\\filepackage.zip",
