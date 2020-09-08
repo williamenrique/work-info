@@ -31,7 +31,7 @@ include './modules/include/head.php';
 		<?php include 'modules/components/nav.html'?>
 		<!-- Navbar -->
 
-		<!-- Background image -->
+		<!-- Background image 
 		<div id="intro" class="p-5 text-center bg-image shadow-1-strong">
 			<div class="mask" style="background-color: rgba(0, 0, 0, 0.7);">
 				<div class="d-flex justify-content-center align-items-center h-100">
@@ -46,7 +46,8 @@ include './modules/include/head.php';
 				</div>
 			</div>
 		</div>
-		<!-- Background image -->
+		 Background image -->
+		<?php include 'modules/components/header.html'?>
 	</header>
 	<!--Main Navigation-->
 
