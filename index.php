@@ -4,7 +4,7 @@ include $_SERVER['DOCUMENT_ROOT'].'/core/conf/config.sistema.php';
 include './modules/include/head.php';
 
 ?>
-<title><?php echo $nombresistema?></title>
+<title>WI-<?php echo $nombresistema?></title>
 
 <body>
 
