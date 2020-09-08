@@ -2,7 +2,9 @@
 //include $_SERVER['DOCUMENT_ROOT'].'/work-info/core/conf/config.sistema.php';
 include $_SERVER['DOCUMENT_ROOT'].'/core/conf/config.sistema.php';
 include './modules/include/head.php';
+
 ?>
+<title><?php echo $nombresistema?></title>
 
 <body>
 
@@ -26,7 +28,7 @@ include './modules/include/head.php';
 		</style>
 
 		<!-- Navbar -->
-
+		<?php include 'modules/components/nav.html'?>
 		<!-- Navbar -->
 
 		<!-- Background image -->
