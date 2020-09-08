@@ -32,8 +32,7 @@ include './modules/include/head.php';
 		<!-- Navbar -->
 
 		<!-- Background image -->
-		<div id="intro" class="p-5 text-center bg-image shadow-1-strong"
-			style="background-image: url('https://mdbootstrap.com/img/new/slides/041.jpg');">
+		<div id="intro" class="p-5 text-center bg-image shadow-1-strong">
 			<div class="mask" style="background-color: rgba(0, 0, 0, 0.7);">
 				<div class="d-flex justify-content-center align-items-center h-100">
 					<div class="text-white">
