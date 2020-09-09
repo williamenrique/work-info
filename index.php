@@ -1,10 +1,6 @@
 <?php 
-//include $_SERVER['DOCUMENT_ROOT'].'/work-info/core/conf/config.sistema.php';
-include $_SERVER['DOCUMENT_ROOT'].'/core/conf/config.sistema.php';
-include './modules/include/head.php';
-
+include './src/include/head.php';
 ?>
-<title>WI-<?php echo $nombresistema?></title>
 
 <body>
 
@@ -28,9 +24,9 @@ include './modules/include/head.php';
 		</style>
 
 		<!-- Navbar -->
-		<?php include 'modules/components/nav.html'?>
+		<?php include 'src/components/nav.php'?>
 		<!-- Navbar -->
-		<?php include 'modules/components/header.html'?>
+		<?php include 'src/components/header.php'?>
 	</header>
 	<!--Main Navigation-->
 
@@ -66,17 +62,14 @@ include './modules/include/head.php';
 				</div>
 			</section>
 			<!--Section: Content-->
-
 			<hr class="my-5" />
-
 		</div>
 	</main>
 	<!--Main layout-->
 
 	<!--Footer-->
-
+	<?php include './src/include/footer.php'?>
 	<!--Footer-->
-	<?php include './modules/include/footer.php'?>
 </body>
 
 </html>

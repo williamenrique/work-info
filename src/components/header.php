@@ -6,7 +6,7 @@
 				<!--Grid column-->
 				<div class="col-lg-7 mb-4 p-2">
 					<picture>
-						<img src="./src/img/undraw_responsive_6c8s.svg" class="img-fluid shadow-5 rounded-lg"
+						<img src="<?php echo img?>undraw_responsive_6c8s.svg" class="img-fluid shadow-5 rounded-lg"
 							alt="MDB 5 - Bootstrap 5 &amp; Material Design 2.0">
 					</picture>
 				</div>
@@ -15,9 +15,9 @@
 				<!--Grid column-->
 				<div class="col-lg-5 text-center text-lg-left d-lg-flex align-items-center">
 					<style>
-						.bg-theme {
-							background-color: #7446ac !important;
-						}
+					.bg-theme {
+						background-color: #7446ac !important;
+					}
 					</style>
 
 					<div class="pl-lg-3">
@@ -36,10 +36,9 @@
 							del mercado.
 						</p>
 
-						<a class=" btn btn-outline-dark btn-lg mr-2" data-ripple-color="dark"
-							href="/docs/standard/getting-started/installation/" role="button">Contactanos</a>
+						<a class=" btn btn-outline-dark btn-lg mr-2" data-ripple-color="dark" href="" role="button">Contactanos</a>
 
-						<a class="btn btn-primary btn-lg mr-2" href="/docs/standard/" role="button">saber mas</a>
+						<a class="btn btn-primary btn-lg mr-2" href="" role=" button">saber mas</a>
 					</div>
 				</div>
 				<!--Grid column-->
