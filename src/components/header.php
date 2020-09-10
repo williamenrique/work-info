@@ -20,7 +20,7 @@
 					</style>
 
 					<div class="pl-lg-3">
-						<h1>Pagina en Construcción ftp</h1><br>
+						<h1>Pagina en Construcción</h1><br>
 						Somos solución en <strong>desarrollo web</strong>
 						<p>Creamos tu web con la tecnologia mas reciente.!</p>
 						<p class="lista">
