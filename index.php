@@ -38,7 +38,7 @@ include './src/include/head.php';
 				<div class="row">
 					<div class="col-md-6 gx-5 mb-4">
 						<div class="bg-image hover-overlay ripple shadow-2-strong" data-ripple-color="light">
-							<img src="https://mdbootstrap.com/img/new/slides/031.jpg" class="img-fluid" />
+							<img src="<?php echo img?>undraw_static_assets_rpm6.png" class="img-fluid rounded" />
 							<a href="#!">
 								<div class="mask" style="background-color: rgba(251, 251, 251, 0.15);"></div>
 							</a>
@@ -46,17 +46,18 @@ include './src/include/head.php';
 					</div>
 
 					<div class="col-md-6 gx-5 mb-4">
-						<h4><strong>Facilis consequatur eligendi</strong></h4>
-						<p class="text-muted">
-							Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis consequatur
-							eligendi quisquam doloremque vero ex debitis veritatis placeat unde animi laborum
-							sapiente illo possimus, commodi dignissimos obcaecati illum maiores corporis.
+						<h4><strong>Desarrollos a tu medida con gran performance.</strong></h4>
+						<p class="text-muted p-2">
+							Inicia el proyecto que tienes en mente
+							Con WORKINFO puedes obtener ese crecimiento que buscabas para tu negocio.
+							Crear un sistema puede ser complicado, pero con un correcto proceso de desarrollo y alcances definidos,
+							puedes automatizar los procesos que parecían imposibles.
 						</p>
-						<p><strong>Doloremque vero ex debitis veritatis?</strong></p>
-						<p class="text-muted">
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod itaque voluptate
-							nesciunt laborum incidunt. Officia, quam consectetur. Earum eligendi aliquam illum
-							alias, unde optio accusantium soluta, iusto molestiae adipisci et?
+						<p><strong>Servicios que ayudarán a la consolidación de tu empresa.?</strong></p>
+						<p class="text-muted p-2">
+							El desarrollo de servicios y aplicaciones a medida es una de las ventajas que te podemos ofrecer en
+							WORKINFO. Puedes mejorar los procesos de tu empresa, implementar conexiones con otros sistemas, añadir
+							funcionalidades de terceros y mucho más.
 						</p>
 					</div>
 				</div>

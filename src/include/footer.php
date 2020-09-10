@@ -6,7 +6,7 @@
 			<div class="row py-4 d-flex align-items-center">
 				<!-- Grid column -->
 				<div class="col-md-6 col-lg-5 text-center text-md-left mb-4 mb-md-0">
-					<h6 class="mb-0">siguenos por nuestras redes sociales!</h6>
+					<h6 class="mb-0">Siguenos por nuestras redes sociales!</h6>
 				</div>
 				<!-- Grid column -->
 				<!-- Grid column -->
@@ -36,21 +36,19 @@
 			<!-- Grid column -->
 			<div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
 				<!-- Content -->
-				<h6 class="text-uppercase font-weight-bold">Company name</h6>
+				<h6 class="text-uppercase font-weight-bold">WORK INFO</h6>
 				<hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-				<p>Aqui se le puede colocar alguna informacion para el cliente de forma rapida para mantener al dia tus
-					servicios </p>
+				<p>No esperes mas unete a nosotros y contrata nuestros servicios ,nosotros estamos aqui para ti</p>
 			</div>
 			<!-- Grid column -->
 			<!-- Grid column -->
 			<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
 				<!-- Links -->
-				<h6 class="text-uppercase font-weight-bold">Products</h6>
+				<h6 class="text-uppercase font-weight-bold">Productos</h6>
 				<hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-				<p>producto 1</p>
-				<p>producto 2</p>
-				<p>producto 3</p>
-				<p>producto 4</p>
+				<p>Desarrollo web</p>
+				<p>Base de datos</p>
+				<p>Correos personalizados</p>
 			</div>
 			<!-- Grid column -->
 			<!-- Grid column -->
@@ -58,19 +56,19 @@
 				<!-- Links -->
 				<h6 class="text-uppercase font-weight-bold">Servicios</h6>
 				<hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-				<p>servicio 1</p>
-				<p>servicio 2</p>
-				<p>servicio 3</p>
-				<p>servicio 4</p>
+				<p>Hosting</p>
+				<p>soporte 24/7</p>
+				<p>Mantenimiento</p>
+				<p>comunicaciones</p>
 			</div>
 			<!-- Grid column -->
 			<!-- Grid column -->
 			<div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
 				<!-- Links -->
-				<h6 class="text-uppercase font-weight-bold">Contact</h6>
+				<h6 class="text-uppercase font-weight-bold">Contacto</h6>
 				<hr class="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
 				<p>
-					<i class="fas fa-home mr-3"></i> New York, NY 10012, US
+					<i class="fas fa-home mr-3"></i> Yaracuy, SF 3102, VZ
 				</p>
 				<p>
 					<a href="<?php echo components?>contacto.php" class="text-white">
@@ -78,7 +76,7 @@
 					</a>
 				</p>
 				<p>
-					<i class="fas fa-phone mr-3"></i> + 01 234 567 88
+					<i class="fas fa-phone mr-3"></i> + 58 412 518 1629
 				</p>
 				<p>
 					<i class="fas fa-print mr-3"></i> + 01 234 567 89
