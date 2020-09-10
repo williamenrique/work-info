@@ -1,8 +1,8 @@
 <?php
 @session_start();
 header('Content-type: text/html; charset=utf-8');
-$servidor = "http://workinfo.com/";
-//$servidor = "https://workinfo.ibx.lat/";
+//$servidor = "http://workinfo.com/";
+$servidor = "https://workinfo.ibx.lat/";
 $sistema = "core/src/";	
 $nombresistema = "Sistema en prueba";	// nombre del sistema
 

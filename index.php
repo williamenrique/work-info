@@ -26,12 +26,12 @@ include './src/include/head.php';
 		<!-- Navbar -->
 		<?php include 'src/components/nav.php'?>
 		<!-- Navbar -->
-		<?php include 'src/components/header.php'?>
 	</header>
 	<!--Main Navigation-->
 
 	<!--Main layout-->
 	<main class="mt-5">
+		<?php include 'src/components/header.php'?>
 		<div class="container">
 			<!--Section: Content-->
 			<section>
