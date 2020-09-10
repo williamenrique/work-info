@@ -2,7 +2,7 @@
 	<div class="container-fluid">
 		<!-- Navbar brand -->
 		<a class="navbar-brand" target="_blank" href="#">
-			<img src="./src/img/logoWI.png" height="40" alt="" loading="lazy" style="margin-top: -3px;" />
+			<img src="<?php echo img?>logoWI.png" height="40" alt="" loading="lazy" style="margin-top: -3px;" />
 		</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarExample01"
 			aria-controls="navbarExample01" aria-expanded="false" aria-label="Toggle navigation">
