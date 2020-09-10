@@ -10,9 +10,8 @@ include './src/include/head.php';
 		<style>
 		/* Default height for small devices */
 		#intro {
-			height: 400px;
-			/* Margin to fix overlapping fixed navbar */
-			margin-top: 58px;
+			height: 370px;
+
 		}
 
 		/* Height for devices larger than 576px */

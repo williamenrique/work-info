@@ -1,13 +1,12 @@
 <div class="container">
 	<div class="d-flex justify-content-center align-items-center" style="height: 100vh;">
-		<section>
+		<section class="section">
 			<!--Grid row-->
 			<div class="row">
 				<!--Grid column-->
 				<div class="col-lg-7 mb-4 p-2">
 					<picture>
-						<img src="<?php echo img?>undraw_responsive_6c8s.svg" class="img-fluid shadow-5 rounded-lg"
-							alt="MDB 5 - Bootstrap 5 &amp; Material Design 2.0">
+						<img src="<?php echo img?>undraw_responsive_6c8s.svg" class="img-fluid shadow-5 rounded-lg">
 					</picture>
 				</div>
 				<!--Grid column-->
@@ -21,7 +20,7 @@
 					</style>
 
 					<div class="pl-lg-3">
-						<h1>Pagina en Construcción</h1><br>
+						<h1>Pagina en Construcción ftp</h1><br>
 						Somos solución en <strong>desarrollo web</strong>
 						<p>Creamos tu web con la tecnologia mas reciente.!</p>
 						<p class="lista">
