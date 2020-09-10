@@ -1,7 +1,7 @@
 <?php
 @session_start();
 header('Content-type: text/html; charset=utf-8');
-//$Recycle.Bin$servidor = "http://workinfo.com/";
+//$servidor = "http://workinfo.com/";
 $servidor = "https://workinfo.ibx.lat/";
 $sistema = "core/src/";	
 $nombresistema = "Sistema en prueba";	// nombre del sistema
@@ -10,6 +10,7 @@ $nombresistema = "Sistema en prueba";	// nombre del sistema
 define('css',$servidor.'src/assets/css/');
 define('js',$servidor.'src/assets/js/');
 define('img',$servidor.'src/assets/img/');
+define('example',$servidor.'example/');
 
 define('components',$servidor.'src/components/');
 

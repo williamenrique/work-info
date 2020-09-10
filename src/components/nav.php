@@ -14,7 +14,7 @@
 					<a class="nav-link" aria-current="page" href="<?php echo $servidor?>">Inicio</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#" rel="nofollow" target="_blank">Learn Bootstrap 5</a>
+					<a class="nav-link" href="<?php echo example?>ecomerce/" rel="nofollow" target="_blank">Ejemplo</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#" target="_blank">Download MDB UI KIT</a>
